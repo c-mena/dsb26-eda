@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este repositorio alberga el proyecto del **Módulo 4: Análisis exploratorio de datos para decisiones comerciales**, perteneciente al **"Bootcamp Fundamentos de Ciencias de Datos 2026"** de **Talento Digital para Chile - SENCE**.
+Este repositorio aloja el proyecto del **Módulo 4: Análisis exploratorio de datos para decisiones comerciales**, perteneciente al **"Bootcamp Fundamentos de Ciencias de Datos 2026"** de **Talento Digital para Chile - SENCE**.
 
 La empresa ficticia **ComercioYA** ha recolectado datos históricos del comportamiento de sus clientes (compras, visitas, montos, devoluciones y reseñas). Este proyecto aplica técnicas de Análisis Exploratorio de Datos (EDA) sobre ese dataset con el fin de detectar patrones, relaciones y valores atípicos que permitan sustentar decisiones estratégicas de ventas y marketing.
 
@@ -12,7 +12,7 @@ La empresa ficticia **ComercioYA** ha recolectado datos históricos del comporta
 
 | Archivo / Carpeta | Descripción |
 |---|---|
-| [`main.ipynb`](./main.ipynb) ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-eda/blob/main/)) | Cuaderno Jupyter que contiene todo el desarrollo EDA. |
+| [`main.ipynb`](./main.ipynb) | Cuaderno Jupyter que contiene todo el desarrollo EDA ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-eda/blob/main/)). |
 | [`TECHNICAL_REPORT.md`](./TECHNICAL_REPORT.md) | Informe técnico con hallazgos, análisis, justificaciones y recomendaciones. |
 | [`data/data_comercioya.csv`](./data/data_comercioya.csv) | Dataset sintético generado en la Lección 1 (exportado por `main.py`). |
 | [`figures/`](./figures/) | Directorio que contiene todas las visualizaciones y gráficos estadísticos exportados en formatos PNG y PDF. |
