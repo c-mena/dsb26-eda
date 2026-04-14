@@ -14,7 +14,7 @@ La empresa ficticia **ComercioYA** ha recolectado datos históricos del comporta
 |---|---|
 | [`main.ipynb`](./main.ipynb) | Cuaderno Jupyter que contiene todo el desarrollo EDA ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-eda/blob/main/main.ipynb)). |
 | [`technical_report.md`](./technical_report.md) | Informe técnico con hallazgos, análisis, justificaciones y recomendaciones. |
-| [`data/data_comercioya.csv`](./data/data_comercioya.csv) | Dataset sintético generado en la Lección 1 (exportado por `main.py`). |
+| [`data/data_comercioya.csv`](./data/data_comercioya.csv) | Dataset sintético generado en `main.ipynb`. |
 | [`figures/`](./figures/) | Directorio que contiene todas las visualizaciones y gráficos estadísticos exportados en formatos PNG y PDF. |
 
 ---
