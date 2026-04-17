@@ -2,36 +2,29 @@
 
 ## Introducción
 
-Este repositorio aloja el proyecto del **Módulo 4: Análisis exploratorio de datos para decisiones comerciales**, perteneciente al **"Bootcamp Fundamentos de Ciencias de Datos 2026"** de **Talento Digital para Chile - SENCE**.
+Este repositorio aloja el proyecto del **Módulo 4: Análisis Exploratorio de Datos**, perteneciente al **"Bootcamp Fundamentos de Ciencias de Datos 2026"** de **Talento Digital para Chile - SENCE**.
 
 La empresa ficticia **ComercioYA** ha recolectado datos históricos del comportamiento de sus clientes (compras, visitas, montos, devoluciones y reseñas). Este proyecto aplica técnicas de Análisis Exploratorio de Datos (EDA) sobre ese dataset con el fin de detectar patrones, relaciones y valores atípicos que permitan sustentar decisiones estratégicas de ventas y marketing.
 
----
 
 ## Estructura del Proyecto
 
-| Archivo / Carpeta | Descripción |
-|---|---|
-| [`main.ipynb`](./main.ipynb) | Cuaderno Jupyter que contiene todo el desarrollo EDA ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-eda/blob/main/main.ipynb)). |
-| [`technical_report.md`](./technical_report.md) | Informe técnico con hallazgos, análisis, justificaciones y recomendaciones. |
-| [`data/data_comercioya.csv`](./data/data_comercioya.csv) | Dataset sintético generado en `main.ipynb`. |
-| [`figures/`](./figures/) | Directorio que contiene todas las visualizaciones y gráficos estadísticos exportados en formatos PNG y PDF. |
+- [`main.ipynb`](./main.ipynb) ([▶ _Ver en_ __nbviewer__](https://nbviewer.org/github/c-mena/dsb26-eda/blob/main/main.ipynb)): Cuaderno Jupyter que contiene todo el desarrollo EDA.
+- [`technical_report.md`](./technical_report.md): Informe técnico con hallazgos, análisis, justificaciones y recomendaciones.
+- [`data/data_comercioya.csv`](./data/data_comercioya.csv): Dataset sintético generado en `main.ipynb`.
+- [`figures/`](./figures/): Directorio que contiene todas las visualizaciones y gráficos estadísticos exportados en formatos PNG y PDF.
 
----
 
 ## Requisitos y Tecnologías
 
-| Librería | Uso |
-|---|---|
-| `numpy` | Generación de datos aleatorios y operaciones numéricas. |
-| `pandas` | Manipulación y análisis del DataFrame. |
-| `matplotlib` | Visualizaciones personalizadas y exportación de figuras. |
-| `seaborn` | Gráficos estadísticos avanzados (pairplot, violin, heatmap, etc.). |
-| `statsmodels` | Modelos de regresión lineal (OLS) con estadísticas de inferencia. |
-| `scikit-learn` | Cálculo de métricas de error (MSE, MAE). |
-| `ipykernel` | Ejecución del cuaderno en entorno Jupyter / VS Code. |
+- `numpy`: Generación de datos aleatorios y operaciones numéricas.
+- `pandas`: Manipulación y análisis del DataFrame.
+- `matplotlib`: Visualizaciones personalizadas y exportación de figuras.
+- `seaborn`: Gráficos estadísticos avanzados (pairplot, violin, heatmap, etc.).
+- `statsmodels`: Modelos de regresión lineal (OLS) con estadísticas de inferencia.
+- `scikit-learn`: Cálculo de métricas de error (MSE, MAE).
+- `ipykernel`: Ejecución del cuaderno en entorno Jupyter / VS Code.
 
----
 
 ## Instalación y Despliegue Local
 
